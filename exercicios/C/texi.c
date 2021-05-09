@@ -24,5 +24,5 @@ char cod;
 		cod = getche();
 		printf("\n\n");
 	}
-	return 0;
+return 0;
 }
