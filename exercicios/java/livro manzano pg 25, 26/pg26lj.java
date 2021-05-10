@@ -1,7 +1,6 @@
+import java.util.Scanner;
 
-    import java.util.Scanner;
-
-public class pg34lg {
+public class pg26lj {
     public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     double quantidade_dolar, convercao, cotacao_dolar;
@@ -16,4 +15,3 @@ public class pg34lg {
     System.out.println("DOLAR $: " + quantidade_dolar + " = REAL R$: " + convercao);
     } 
 }
-
